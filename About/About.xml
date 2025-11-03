@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>wr.wyd.RFWallsReworked.StrongerReinforced</packageId>
+    <modVersion>0.1</modVersion>
+    <name>Stronger Reinforced Walls</name>
+    <author>wuphonsreach</author>
+    <url>https://github.com/WuphonsReach/rimworld-wyd-Reinforced-Walls-Reworked-stronger-reinforced</url>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>Wyr3d.ReinforcedWallsResumed</packageId>
+            <displayName>[WYD] Reinforced Walls Reworked</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/3219861022</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Wyr3d.ReinforcedWallsResumed</li>
+        <!-- <li>greysuki.RF.fertilefields</li> -->
+    </loadAfter>
+    <description>
+The base fortified wall in "[WYD] Reinforced Walls Reworked" has a good health amount, but the reinforced versions aren't strong enough for my tastes.  This kicks the HP of the reinforced wall from 1200 to 1600 and the embrasure from 900 to 1400.
+    </description>
+</ModMetaData>

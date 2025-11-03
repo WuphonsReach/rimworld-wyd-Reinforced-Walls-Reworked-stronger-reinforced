@@ -1,0 +1,8 @@
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName = "ReinforcedWall"]/statBases/MaxHitPoints</xpath>
+    <value>
+      <MaxHitPoints>1600</MaxHitPoints>
+    </value>
+  </Operation>
+</Patch>
