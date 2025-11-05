@@ -1,6 +1,6 @@
 <Patch>
   <Operation Class="PatchOperationReplace">
-    <xpath>Defs/ThingDef[defName = "ReinforcedEmbrasure"]/statBases/MaxHitPoints</xpath>
+    <xpath>Defs/ThingDef[defName="ReinforcedEmbrasure"]/statBases/MaxHitPoints</xpath>
     <value>
       <MaxHitPoints>1450</MaxHitPoints>
     </value>
