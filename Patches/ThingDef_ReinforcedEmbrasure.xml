@@ -2,7 +2,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName = "ReinforcedEmbrasure"]/statBases/MaxHitPoints</xpath>
     <value>
-      <MaxHitPoints>1400</MaxHitPoints>
+      <MaxHitPoints>1450</MaxHitPoints>
     </value>
   </Operation>
 </Patch>
