@@ -23,5 +23,9 @@
 The base fortified wall in "[WYD] Reinforced Walls Reworked" has a good health amount, but the reinforced versions aren't strong enough for my tastes.  This kicks the HP of the reinforced wall from 1200 to 1600 and the embrasure from 900 to 1450.
 
 Is this completely overpowered? You bet.  But your pawns are going to spend a lot more time doing repairs as a result.
+
+Adding this mid-game will result in walls that are not at full strength.  Your pawns will have to repair them up to the new values.  This can take a very long time if you have lots of these walls.
+
+Removing this mid-game should work, the walls will just have the increased HP until they are rebuilt or damaged.
     </description>
 </ModMetaData>
