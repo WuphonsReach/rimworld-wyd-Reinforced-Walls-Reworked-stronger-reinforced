@@ -16,6 +16,6 @@ Removing this mid-game should work, the walls will just have the increased HP un
 
 # Source and Feedback
 
-[WuphonsReach/rimworld-wyd-Reinforced-Walls-Reworked-stronger-reinforced](https://github.com/WuphonsReach/rimworld-wyd-Reinforced-Walls-Reworked-stronger-reinforced)
+GitHub: [WuphonsReach/rimworld-wyd-Reinforced-Walls-Reworked-stronger-reinforced](https://github.com/WuphonsReach/rimworld-wyd-Reinforced-Walls-Reworked-stronger-reinforced)
 
 Issues and patch requests should be reported at GitHub on the above repository.
