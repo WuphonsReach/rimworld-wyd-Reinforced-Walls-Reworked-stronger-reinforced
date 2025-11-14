@@ -5,4 +5,16 @@
       <MaxHitPoints>1450</MaxHitPoints>
     </value>
   </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="ReinforcedEmbrasure"]/costList</xpath>
+    <value>
+      <DevilstrandCloth>1</DevilstrandCloth>
+    </value>
+  </Operation>
+    <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="ReinforcedEmbrasure"]/costList</xpath>
+    <value>
+      <Plasteel>1</Plasteel>
+    </value>
+  </Operation>
 </Patch>

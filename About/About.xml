@@ -24,6 +24,8 @@ The base fortified wall in "[WYD] Reinforced Walls Reworked" has a good health a
 
 Is this completely overpowered? You bet.  But your pawns are going to spend a lot more time doing repairs as a result.
 
+I've added the requirement of 1 plasteel and 1 devilstrand per wall segment to increase the costs a bit.
+
 Adding this mid-game will result in walls that are not at full strength.  Your pawns will have to repair them up to the new values.  This can take a very long time if you have lots of these walls.
 
 Removing this mid-game should work, the walls will just have the increased HP until they are rebuilt or damaged.
