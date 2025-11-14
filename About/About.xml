@@ -28,6 +28,6 @@ I've added the requirement of 1 plasteel and 1 devilstrand per wall segment to i
 
 Adding this mid-game will result in walls that are not at full strength.  Your pawns will have to repair them up to the new values.  This can take a very long time if you have lots of these walls.
 
-Removing this mid-game should work, the walls will just have the increased HP until they are rebuilt or damaged.
+Removing this mid-game should work, the walls should just have the increased HP until they are rebuilt or damaged.
     </description>
 </ModMetaData>
